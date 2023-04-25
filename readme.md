@@ -1,0 +1,2 @@
+-- Feito no Debian 11 -- 
+-- dar make all no diretório da pasta para rodar o programa -- 
