@@ -4,8 +4,8 @@
 int main()
 {
 	struct image_s data;
-	struct image_s *image = &data;
 	struct image_s dataGerada;
+	struct image_s *image = &data;
 	struct image_s *imagem_gerada = &dataGerada; 
 	
 	int i, j, r;
